@@ -39,6 +39,7 @@
         margin: 0 auto;
         margin-bottom: 2vh;
         max-height: 50vh;
+        max-width: 100vw
     }
 
     .footer {

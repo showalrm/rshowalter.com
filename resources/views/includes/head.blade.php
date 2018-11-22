@@ -15,4 +15,7 @@
 <link rel="shortcut icon" href="{{ asset('favicon.ico') }}">
 <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}">
 
+<!-- Fonts -->
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
+
 <title>@yield('title')</title>

@@ -5,7 +5,7 @@
 @section('content')
 
 <div id="about-content" class="container text-center" style="margin-top: 5vh;">
-    <p class="lead">Greetings, my name is Ryan Showalter! I'm a freshman Computer Science Major
+    <p class="lead">Greetings, my name is Ryan Showalter! I'm a sophomore Computer Science Major
     at James Madison University. Outside of school, I have plenty of hobbies, such as driving,
     playing music, and gaming. Feel free to check out my 
     <a id="about-content-github-link" href="https://github.com/showalrm" target="_blank">
